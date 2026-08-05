@@ -22,7 +22,7 @@ export default function AboutPage() {
           <div className="relative z-10 md:w-1/2">
             <h2 className="font-display text-2xl text-[var(--text-primary)] mb-4">A Mother's Craft</h2>
             <p>
-              What started as our founder's mother hand-making rakhis and festive ornaments for family and friends 
+              What started as our founder, Sunaina Devi, hand-making rakhis and festive ornaments for family and friends 
               soon blossomed into something much larger. We realized that jewelry shouldn't just be an accessory; 
               it should be an extension of your identity, a reminder of your strength, and a celebration of your bonds.
             </p>

@@ -27,7 +27,7 @@ export default function OurStoryStrip() {
             </h2>
             <div className="font-body text-[var(--text-secondary)] space-y-4 mb-8">
               <p>
-                For decades, my mother sat by the window in our Lucknow home, threading beads and weaving love into handmade rakhis and delicate jewelry for our family. Her hands moved with a quiet grace, preserving techniques passed down through generations.
+                For decades, our founder, Sunaina Devi, sat by the window in our Lucknow home, threading beads and weaving love into handmade rakhis and delicate jewelry for our family. Her hands moved with a quiet grace, preserving techniques passed down through generations.
               </p>
               <p>
                 Awadhya was born from a desire to share her craft with the world. We partner directly with women artisans across Lucknow, ensuring fair wages and preserving traditional Indian craftsmanship in every modern piece we create.
